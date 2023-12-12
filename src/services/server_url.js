@@ -1,0 +1,1 @@
+export const SERVER_URL = 'https://e-commerse-mern.onrender.com';
